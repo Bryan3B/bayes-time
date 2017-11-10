@@ -1,5 +1,7 @@
 ## Welcome to Bayes' Time
 
+This website is for posting bayesian statistics study material.
+
 You can use the [editor on GitHub](https://github.com/Bryan3B/bayes-time/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
