@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bays Time
 
 You can use the [editor on GitHub](https://github.com/Bryan3B/bayes-time/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
